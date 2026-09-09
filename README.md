@@ -5,11 +5,14 @@ Northeastern University. Each is a self-contained notebook on a public dataset.
 
 **These are learning exercises, not portfolio work.** For applied analysis, see:
 
+- [**seattle-vision-zero-analysis**](https://github.com/janemeimei/seattle-vision-zero-analysis)
+  — 262K police-reported collisions; found the city's highest-risk corridor has 89% of its
+  signals in poor condition
 - [**customer-retention-causal-analysis**](https://github.com/janemeimei/customer-retention-causal-analysis)
   — causal inference and targeting policy; found 19.3% of a customer base was harmed by the same
   intervention that helped others
-- [**traffic-accident-severity-analysis**](https://github.com/janemeimei/traffic-accident-severity-analysis)
-  — 7.7M records in R; ANOVA and logistic regression on U.S. traffic safety
+- [**us-traffic-disruption-analysis**](https://github.com/janemeimei/us-traffic-disruption-analysis)
+  — 7.7M records in R; ANOVA and logistic regression on what makes a crash disrupt traffic
 - [**movie-analytics-pyspark**](https://github.com/janemeimei/movie-analytics-pyspark)
   — 1.2M records at scale; clustering, recommendation, topic modeling
 
